@@ -8,7 +8,7 @@ Building production-grade AI applications and full-stack web systems with a focu
 
 - ✅ Completed: **Secure Document Chat (RAG)** & **PartyHub Venue Management System**
 - 💬 Ask me about: **Python, RAG, Qdrant, LangChain, OpenAI, Django, React, MERN Stack**
-- 🎓 Pursuing: **B.Tech in Computer Science @ Sandip University** (Expected 2026)
+- 🎓 Pursuing: **B.Tech In Computer Science @ Sandip University** (Expected 2026)
 - 🌱 Actively exploring: **Generative AI, LLM Evaluation, Agentic Workflows**
 - 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/blob/main/AbhijitP.Borade_Resume.pdf)
 - 📫 Reach me at: abhijitpborade96@gmail.com
@@ -27,7 +27,7 @@ Building production-grade AI applications and full-stack web systems with a focu
 
 ## 🧠 Core Stack
 
-[![Core Skills](https://skillicons.dev/icons?i=python,js,java,react,nodejs,django,nextjs,mongodb,mysql,git,azure,docker,github,vscode,linux,fastapi)](https://skillicons.dev)
+![Core Skills](https://skillicons.dev/icons?i=python,js,java,react,nodejs,django,nextjs,mongodb,mysql,git,azure,docker,github,vscode,linux,fastapi)
 
 ---
 
