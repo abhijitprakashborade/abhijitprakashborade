@@ -75,10 +75,12 @@ Dynamic task allocation system for optimal cloud resource usage.
 
 ## 💼 Experience
 
-**Python Intern** @ ZobLik International *(Dec 2025 – Feb 2026)*
-- Built web scrapers with BeautifulSoup & Scrapy extracting **10,000+ data points**
-- Automated data extraction workflows, reducing manual processing time by **20%**
-- Engineered Pandas pipelines to clean unstructured data for AI training
+**AI/ML Engineer** @ Atronz Innovations *(Dec 2025 – Present)*
+- Building and deploying AI/ML models for real-world applications
+- Developing AI-powered websites and web applications with integrated GenAI features
+- Specializing in GenAI tools, model integration, and AI platform engineering
+- Combining Full Stack development skills with AI to deliver intelligent web solutions
+
 
 **Full Stack Developer** @ Codevocado Pvt. Ltd. *(Nov 2024 – Jan 2025)*
 - Built full-stack web app using **React + Node.js**, reducing manual processing by **20%**
