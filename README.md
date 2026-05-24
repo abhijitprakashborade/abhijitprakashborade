@@ -10,7 +10,7 @@ Building production-grade AI applications and full-stack web systems with a focu
 - 💬 Ask me about: **Python, RAG, Qdrant, LangChain, OpenAI, Django, React, MERN Stack**
 - 🎓 Pursuing: **B.Tech in Computer Science @ Sandip University** (Expected 2026)
 - 🌱 Actively exploring: **Generative AI, LLM Evaluation, Agentic Workflows**
-- 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/raw/main/AbhijitBorade_Resume.pdf)
+- 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/raw/main/AbhijitPBorade_Resume(new)(1).pdf)
 - 📫 Reach me at: abhijitpborade96@gmail.com
 - 🔗 Open to: **Full Stack, AI/ML, and Data Engineering roles**
 
