@@ -44,11 +44,11 @@ Building production-grade AI applications and full-stack web systems with a focu
 
 **AI & GenAI Tools:**
 
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech)
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
-[![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+<a href="https://langchain.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="40" alt="LangChain"/></a>&nbsp;
+<a href="https://qdrant.tech" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" height="40" alt="Qdrant"/></a>&nbsp;
+<a href="https://ai.google.dev" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="40" alt="Google Gemini"/></a>&nbsp;
+<a href="https://gradio.app" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gradio" height="40" alt="Gradio"/></a>&nbsp;
+<a href="https://openai.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="40" alt="OpenAI"/></a>
 
 ---
 
