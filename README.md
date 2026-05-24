@@ -10,7 +10,7 @@ Building production-grade AI applications and full-stack web systems with a focu
 - 💬 Ask me about: **Python, RAG, Qdrant, LangChain, OpenAI, Django, React, MERN Stack**
 - 🎓 Pursuing: **B.Tech in Computer Science @ Sandip University** (Expected 2026)
 - 🌱 Actively exploring: **Generative AI, LLM Evaluation, Agentic Workflows**
-- 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/raw/main/AbhijitPBorade_Resume(new)(1).pdf)
+- 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/raw/main/AbhijitP.Borade_Resume.pdf)
 - 📫 Reach me at: abhijitpborade96@gmail.com
 - 🔗 Open to: **Full Stack, AI/ML, and Data Engineering roles**
 
@@ -18,10 +18,10 @@ Building production-grade AI applications and full-stack web systems with a focu
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abhijit-borade-ab0b96265)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijitpborade96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-borade-ab0b96265)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijitpborade96gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijitprakashborade)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/abhijitprakashborade/abhijitprakashborade/raw/main/AbhijitBorade_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/abhijitprakashborade/abhijitprakashborade/raw/main/AbhijitP.Borade_Resume.pdf)
 
 ---
 
