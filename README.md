@@ -36,12 +36,19 @@ Building production-grade AI applications and full-stack web systems with a focu
 <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/></a>&nbsp;
 <a href="https://mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/></a>&nbsp;
 <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/></a>&nbsp;
-<a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure"/></a>&nbsp;
 <a href="https://docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/></a>&nbsp;
 <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>&nbsp;
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/></a>&nbsp;
 <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/></a>&nbsp;
 <a href="https://linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/></a>
+
+**AI & GenAI Tools:**
+
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
+[![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 
 ---
 
@@ -93,12 +100,6 @@ Dynamic task allocation system for optimal cloud resource usage.
 - ⚛️ MERN Stack Developer — Codevocado Pvt. Ltd.
 
 ---
-
-## 📊 GitHub Stats
-
-![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijitprakashborade&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitprakashborade&layout=compact&hide_border=true)
 
 ---
 
