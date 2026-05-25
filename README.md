@@ -2,14 +2,15 @@
 
 ### Full Stack Developer | AI/ML Engineer | RAG & Generative AI
 
-Building production-grade AI applications and full-stack web systems with a focus on RAG pipelines, data engineering, and modern web stacks.
+Building AI applications and full-stack web systems with a focus on RAG pipelines, LLM integration, and modern web stacks.
 
 ---
 
 - ✅ Completed: **Secure Document Chat (RAG)** & **PartyHub Venue Management System**
 - 💬 Ask me about: **Python, RAG, Qdrant, LangChain, OpenAI, Django, React, MERN Stack**
-- 🎓 Pursuing: **B.Tech In Computer Science @ Sandip University** (Expected 2026)
+- 🎓 Completed: **B.Tech In Computer Science @ Sandip University** (2026 | Result Awaited)
 - 🌱 Actively exploring: **Generative AI, LLM Evaluation, Agentic Workflows**
+- 🌐 Portfolio: [abhijitprakashborade.github.io](https://abhijitprakashborade.github.io/index.html)
 - 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/blob/main/AbhijitP.Borade_Resume.pdf)
 - 📫 Reach me at: abhijitpborade96@gmail.com
 - 🔗 Open to: **Full Stack, AI/ML, and Data Engineering roles**
@@ -55,53 +56,42 @@ Building production-grade AI applications and full-stack web systems with a focu
 ## 🚀 Featured Projects
 
 ### 🔐 ✅ [Secure Document Chat — RAG Application](https://github.com/abhijitprakashborade/Secure-Document-Chat-RAG-Application)
-A professional-grade RAG platform to chat securely with your documents (PDF, DOCX, PPTX).
-- Built with **LangChain + OpenAI** for contextually relevant responses
-- **Qdrant** vector database for efficient document indexing & retrieval
-- User-friendly **Gradio** interface with strong data privacy focus
+A RAG platform to chat securely with your documents (PDF, DOCX, PPTX).
+- Built with **LangChain + OpenAI** for contextually relevant, source-grounded responses
+- **Qdrant** vector database for semantic document indexing & sub-second retrieval
+- Privacy-first **Gradio** interface — no user data sent to external servers
 
 ### 🎉 ✅ [PartyHub — Event Venue Management System](https://github.com/abhijitprakashborade/PartyHall)
-Full-stack SaaS booking platform for party halls across India.
+Full-stack booking platform for party halls across India.
 - **Django + Next.js** with 6 tiered service packages and dynamic add-ons
-- **Razorpay API** integration for secure payment processing
+- **Razorpay API** integration for secure payment processing with automated slot-blocking
 - Real-time SMS notifications and automated 1-hour pre-event reminders
-
-### ☁️ Cloud Workflow Scheduling with Deadlines & Time Slots
-Dynamic task allocation system for optimal cloud resource usage.
-- Complex task dependency handling and deadline management
-- Efficient resource prioritization and scheduling logic
 
 ---
 
 ## 💼 Experience
 
-**AI/ML Engineer** @ Atronz Innovations *(Dec 2025 – Present)*
-- Building and deploying AI/ML models for real-world applications
-- Developing AI-powered websites and web applications with integrated GenAI features
-- Specializing in GenAI tools, model integration, and AI platform engineering
-- Combining Full Stack development skills with AI to deliver intelligent web solutions
+**AI/ML Engineer Intern** @ Atronz Innovations *(Dec 2025 – Present)*
+- Designed and developed **3+ full-stack AI web applications** from scratch, integrating OpenAI (GPT-4o) and Anthropic (Claude) APIs with React and FastAPI
+- Built LLM pipelines covering prompt engineering, context management, and response validation for structured output across multiple use cases
+- Owned end-to-end implementation — from requirement analysis to deployment — working directly with the founding team in an early-stage startup environment
 
+**Full Stack Developer Intern** @ Codevocado Pvt. Ltd. *(Nov 2024 – Jan 2025 | Short-term contract)*
+- Built full-stack data-entry workflow app using **React + Node.js**, cutting manual processing time by **30%**
+- Implemented **JWT-based authentication**, improving login security and session reliability
+- Integrated **MongoDB** for dynamic multi-user data storage and real-time content delivery
 
-**Full Stack Developer** @ Codevocado Pvt. Ltd. *(Nov 2024 – Jan 2025)*
-- Built full-stack web app using **React + Node.js**, reducing manual processing by **20%**
-- Engineered secure login with robust user authentication
-- Integrated **MongoDB** for dynamic data storage and delivery
-
-**Web Developer** @ Npit Solutions Pvt. Ltd. *(Jan 2023 – Mar 2023)*
-- Boosted user engagement by **20%** through responsive UI design
-- Improved page load speed by **15%** using optimized HTML/CSS/JS
-- Reduced bugs by **30%** through rigorous cross-browser debugging
+**Web Developer Intern** @ Npit Solutions Pvt. Ltd. *(Jan 2023 – Mar 2023)*
+- Developed **5 responsive client websites** using HTML, CSS, and JavaScript, improving user engagement by **20%**
+- Improved page load speed by **15%** through front-end optimisation and asset cleanup
+- Reduced bugs by **30%** through rigorous cross-browser debugging and testing
 
 ---
 
 ## 📜 Certifications
 
-- 🏆 Google Arcade Facilitator Program
-- 📊 Google Data Analytics Certificate
-- 🌐 Web Developer — Npit Solutions
-- ⚛️ MERN Stack Developer — Codevocado Pvt. Ltd.
-
----
+- 🏆 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — Oracle University (2025)
+- 📊 **Google Data Analytics Certificate** — Coursera (2024)
 
 ---
 
