@@ -11,7 +11,7 @@ Building AI applications and full-stack web systems with a focus on RAG pipeline
 - 🎓 Completed: **B.Tech In Computer Science @ Sandip University** (2026 | Result Awaited)
 - 🌱 Actively exploring: **Generative AI, LLM Evaluation, Agentic Workflows**
 - 🌐 Portfolio: [abhijitprakashborade.github.io](https://abhijitprakashborade.github.io/index.html)
-- 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/blob/main/AbhijitP.Borade_Resume .pdf)
+- 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/blob/main/AbhijitP.Borade_Resume%20.pdf)
 - 📫 Reach me at: abhijitpborade96@gmail.com
 - 🔗 Open to: **Full Stack, AI/ML, and Data Engineering roles**
 
