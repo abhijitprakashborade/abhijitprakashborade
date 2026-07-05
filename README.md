@@ -45,10 +45,10 @@ Building full-stack web applications and RAG-based AI tools with React, FastAPI,
 
 **AI & GenAI Tools:**
 
-<a href="https://langchain.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="40" alt="LangChain"/></a>&nbsp;
-<a href="https://qdrant.tech" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" height="40" alt="Qdrant"/></a>&nbsp;
-<a href="https://openai.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="40" alt="OpenAI"/></a>&nbsp;
-<a href="https://gradio.app" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gradio" height="40" alt="Gradio"/></a>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF3C5C?style=for-the-badge&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FE7C06?style=for-the-badge&logoColor=white)
 
 ---
 
