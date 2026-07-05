@@ -11,7 +11,7 @@ Building full-stack web applications and RAG-based AI tools with React, FastAPI,
 - 🎓 **B.E. Computer Science @ Sandip University** (May 2026 | CGPA: 8.3)
 - 🌱 Actively exploring: **Generative AI, LLM Evaluation, Agentic Workflows**
 - 🌐 Portfolio: [abhijitprakashborade.github.io](https://abhijitprakashborade.github.io/index.html)
-- 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/blob/main/AbhijitP.Borade_Resume %20.pdf)
+- 📄 Resume: [View Resume](https://github.com/abhijitprakashborade/abhijitprakashborade/blob/main/AbhijitPBorade_Resume %20.pdf)
 - 📫 Reach me at: abhijitborade93@gmail.com
 - 🔗 Open to: **Full Stack and AI/ML roles**
 
